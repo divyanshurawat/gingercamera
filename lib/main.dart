@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.red,
       ),
-      home: Camera(),
+      home: const Camera(),
     );
   }
 }

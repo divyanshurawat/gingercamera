@@ -43,6 +43,9 @@ dev_dependencies:
   flutter_lints: ^1.0.4
   permission_handler:
   transparent_image:
+  path_provider:
+  external_path: ^1.0.1
+  fluttertoast:
 
   take_picture_native: ^1.0.9
 
